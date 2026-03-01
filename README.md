@@ -4,7 +4,7 @@
 
 I specialize in designing scalable risk analytics frameworks and leveraging Python and Large Language Models (LLMs) to prototype, automate, and enhance governance reporting systems.
 
-Previous companies Wells Fargo, PayPal, University of Texas Southwest Research Institute, JPMorgan Chase, and GM Financial.
+Previous experience: Wells Fargo, PayPal, University of Texas Southwest Research Institute, JPMorgan Chase, and GM Financial.
 
 My work focuses on translating enterprise risk challenges into structured analytical solutions.
 
