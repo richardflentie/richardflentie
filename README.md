@@ -14,7 +14,6 @@ My work focuses on translating enterprise risk challenges into structured analyt
 
 - Design operational risk analytics frameworks
 - Build SLA and issue monitoring models
-- Structure SQL-based data models
 - Develop AI-assisted Python workflows
 - Create executive-level reporting dashboards
 - Architect data-driven governance solutions
